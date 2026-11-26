@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "printer": "q2",
+  "version": "1.1.1",
+  "source": "https://github.com/QIDITECH/QIDI_Q2/releases/tag/Q2_V1.1.1",
+  "firmware_archive": {
+    "filename": "Q2_V1.1.1.zip",
+    "sha256": "4c7d0f5b52d1a780f3e02b92bea6c7b751690c2b4da529eafd2ceb662241ecb7",
+    "size": 137130401
+  },
+  "firmware_manifest": null,
+  "soc_payload": {
+    "filename": "QD_Q2_SOC_V1.1.1_20260109_Release",
+    "sha256": "fcb48d77cbf707079cee2ecc00913f539d80d2221e16935592738c449e6eb700",
+    "package": "qidi-q2-system",
+    "package_version": "1.1.1"
+  },
+  "boards": {
+    "mcu": {"filename": "QD_Q2_MCU", "sha256": "eac766bab0ba71cff1ec4a09ea51ad4d80bd0f6996466d8818e02412ba90df70"},
+    "thr": {"filename": "QD_Q2_THR", "sha256": "e114de22c629167381b68eb6e477b2a8dc93ee98fb2fbdb3c828f95a224c8f8b"}
+  }
+}
